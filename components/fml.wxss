@@ -1,0 +1,2 @@
+@import './styles/animate.wxss';
+@import './styles/autoSelect.wxss';

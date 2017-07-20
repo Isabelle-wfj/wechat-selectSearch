@@ -1,0 +1,4 @@
+/**app.wxss**/
+
+@import 'assets/public.wxss';
+@import 'components/fml.wxss';

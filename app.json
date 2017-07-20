@@ -1,0 +1,11 @@
+{
+  "pages":[ 
+    "pages/selectAdress/selectAdress"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "风慕李",
+    "navigationBarTextStyle":"black"
+  }
+}
