@@ -1,0 +1,9 @@
+# wechat-selectSearch
+##简单说明
+1.用微信web开发者工具，将下载的添加到项目
+2.如果你没有APPId是不能上传在手机预览
+3.其中assets文件存放的是公用样式
+4.其中component是组件的存放路径
+5.component中的style是所有的组件样式路径
+5.fml.js是所有组件的入口
+6.fml.css是所有组件的样式入口
