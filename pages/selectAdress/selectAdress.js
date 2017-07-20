@@ -85,10 +85,12 @@ Page({
     
   },
   bindSubmit(){
+    if(this.data.countShow){
     wx.showModal({
       title: '小编提示',
       content: '小编很懒！还木有写，要不大神你来'
     })
+      }
   },
   
   /**
